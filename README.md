@@ -1,2 +1,0 @@
-# foodspot
-Created with CodeSandbox
